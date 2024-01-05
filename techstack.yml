@@ -2,7 +2,7 @@ repo_name: jknohr/agentdocker
 report_id: f869a8dc2110f3458bea5cdb4e43be98
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-28T04:56:56+00:00'
+timestamp: '2024-01-05T08:14:56+00:00'
 requested_by: tomlynchRNA
 provider: github
 branch: master
@@ -16,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/jknohr/agentdocker
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -26,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/jknohr/agentdocker
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -36,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/jknohr/agentdocker
   detection_source: Repo Metadata
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
@@ -46,6 +49,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/jknohr/agentdocker
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -57,6 +61,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/jknohr/agentdocker/blob/master/webapp/package.json
   detection_source: webapp/package.json
   last_updated_by: Thomas Lynch
   last_updated_on: 2023-10-23 03:51:46.000000000 Z
@@ -68,6 +73,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/jknohr/agentdocker/blob/master/webapp/package.json
   detection_source: webapp/package.json
   last_updated_by: Thomas Lynch
   last_updated_on: 2023-10-24 06:23:26.000000000 Z
@@ -108,6 +114,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/jknohr/agentdocker/blob/master/webapp/Dockerfile
   detection_source: webapp/Dockerfile
   last_updated_by: Thomas Lynch
   last_updated_on: 2023-10-23 05:28:34.000000000 Z
@@ -120,6 +127,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/3339/rlFcjEdI.png
+  detection_source_url: https://github.com/jknohr/agentdocker/blob/master/webapp/package.json
   detection_source: webapp/package.json
   last_updated_by: Thomas Lynch
   last_updated_on: 2023-10-23 03:51:46.000000000 Z
@@ -146,6 +154,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Front-End Frameworks
   image_url: https://img.stackshare.io/service/8158/default_660b7c41c3ba489cb581eec89c04655404258c19.png
+  detection_source_url: https://github.com/jknohr/agentdocker/blob/master/webapp/package.json
   detection_source: webapp/package.json
   last_updated_by: Thomas Lynch
   last_updated_on: 2023-10-31 06:31:38.000000000 Z
@@ -158,6 +167,7 @@ tools:
   category: Data Stores
   sub_category: Message Queue
   image_url: https://img.stackshare.io/service/25280/default_d1dbf45c67d448a8a16413d63d3c21cdca003fb8.png
+  detection_source_url: https://github.com/jknohr/agentdocker/blob/master/webapp/package.json
   detection_source: webapp/package.json
   last_updated_by: Thomas Lynch
   last_updated_on: 2023-10-23 03:51:46.000000000 Z
@@ -210,6 +220,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/jknohr/agentdocker
   detection_source: Repo Metadata
 - name: Docker Compose
   description: Define and run multi-container applications with Docker
@@ -220,6 +231,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Container Tools
   image_url: https://img.stackshare.io/service/3136/docker-compose.png
+  detection_source_url: https://github.com/jknohr/agentdocker/blob/master/docker-compose.yml
   detection_source: docker-compose.yml
   last_updated_by: Thomas Lynch
   last_updated_on: 2023-11-08 02:23:35.000000000 Z
@@ -232,6 +244,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Server Configuration and Automation
   image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source_url: https://github.com/jknohr/agentdocker/blob/master/webapp/package.json
   detection_source: webapp/package.json
   last_updated_by: Thomas Lynch
   last_updated_on: 2023-10-23 03:51:46.000000000 Z
@@ -244,6 +257,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/jknohr/agentdocker/blob/master/webapp/package.json
   detection_source: webapp/package.json
   last_updated_by: Thomas Lynch
   last_updated_on: 2023-10-23 03:51:46.000000000 Z
@@ -255,6 +269,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/jknohr/agentdocker
   detection_source: Repo Metadata
 - name: Google Cloud Build
   description: Continuously build, test, and deploy.
@@ -264,6 +279,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Deployment
   image_url: https://img.stackshare.io/service/9309/PoHJY3K8_400x400.jpg
+  detection_source_url: https://github.com/jknohr/agentdocker/blob/master/agent-backend/kubernetes/prod/cloudbuild.yaml
   detection_source: agent-backend/kubernetes/prod/cloudbuild.yaml
   last_updated_by: Thomas Lynch
   last_updated_on: 2023-10-23 03:55:36.000000000 Z
@@ -275,6 +291,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/jknohr/agentdocker/blob/master/webapp/package.json
   detection_source: webapp/package.json
   last_updated_by: Thomas Lynch
   last_updated_on: 2023-10-23 03:51:46.000000000 Z
@@ -286,6 +303,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/jknohr/agentdocker/blob/master/webapp/package.json
   detection_source: webapp/package.json
   last_updated_by: Thomas Lynch
   last_updated_on: 2023-10-23 03:51:46.000000000 Z
@@ -297,6 +315,7 @@ tools:
   category: Payments
   sub_category: Payment Services
   image_url: https://img.stackshare.io/service/97/eW6tXeq3.png
+  detection_source_url: https://github.com/jknohr/agentdocker/blob/master/webapp/package.json
   detection_source: webapp/package.json
   last_updated_by: Thomas Lynch
   last_updated_on: 2023-11-09 02:27:52.000000000 Z
@@ -307,6 +326,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/3519/3wgIDj3j_normal.png
+  detection_source_url: https://github.com/jknohr/agentdocker/blob/master/docker-compose.yml
   detection_source: docker-compose.yml
   last_updated_by: Thomas Lynch
   last_updated_on: 2023-10-24 03:24:47.000000000 Z
@@ -319,6 +339,7 @@ tools:
   category: Application Utilities
   sub_category: User Management and Authentication
   image_url: https://ucarecdn.com/8f3cac0e-b146-4f0f-878c-680a6671d804/
+  detection_source_url: https://github.com/jknohr/agentdocker/blob/master/webapp/package.json
   detection_source: webapp/package.json
   last_updated_by: Thomas Lynch
   last_updated_on: 2023-11-28 00:02:25.000000000 Z
